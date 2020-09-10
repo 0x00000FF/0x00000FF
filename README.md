@@ -2,4 +2,4 @@
 * C/C++/C#/JavaScript/TypeScript/PHP
 * Being specialized .NET Framework/Core Development
 * Fan of Touhou Project, Especially Patchouli Knowledge <3
-* Currently at the Korea Atomic Energy Research Institute (~8/28)
+* Interested in Blockchain and E2EE
