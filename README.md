@@ -1,4 +1,4 @@
-### <img src="/0x00000FF/0x00000FF/blob/master/images.png" height="30" /> CSE Undergraduated Student @ Chungnam National University
+### <img src="https://raw.githubusercontent.com/0x00000FF/0x00000FF/master/images.png" height="30" /> CSE Undergraduated Student @ Chungnam National University
 * C/C++/C#/JavaScript/TypeScript/PHP
 * Being specialized .NET Framework/Core Development
 * Fan of Touhou Project, Especially Patchouli Knowledge <3
