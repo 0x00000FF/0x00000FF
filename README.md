@@ -8,6 +8,7 @@
 * Fast and Efficient End-to-End Encryption (E2EE)
 * Mitigation in Web Applications
 * Vulnerability Research & Exploitations
+* RISC Architectures(Especially ARM and RISC-V)
 
 #### Equipments
 * Intel i7-10700 with 32GB DDR4 RAM
