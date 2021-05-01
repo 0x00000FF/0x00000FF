@@ -10,7 +10,6 @@
 * Vulnerability Research & Exploitations
 * RISC Architectures(Especially ARM and RISC-V)
 
-#### Equipments
-* Intel i7-10700 with 32GB DDR4 RAM
-* GIGABYTE AERO 17 KB with Intel i7-10875H Processor
-* Mainly use Windows 10 and Visual Studio / Visual Studio Code for development
+#### Educations
+* Chungbuk Provincial College, Information Security, 2017-2019
+* Chungnam National University, Computer Science & Engineering, 2019- (Ant. August 2021)
