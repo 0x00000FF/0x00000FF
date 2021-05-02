@@ -1,4 +1,9 @@
 ### <img src="https://raw.githubusercontent.com/0x00000FF/0x00000FF/master/images.png" height="30" /> CSE Undergraduated Student @ Chungnam National University
+
+Hi, My name is Kangjun Heo!
+
+I was born in 1997, Likes to do several interesting things!
+
 #### Technologies
 * Languages: Assembly(x86-64), C, C++, C#, PHP, JavaScript
 * Specialty: Development on .NET and PHP Infrastructures
@@ -21,3 +26,13 @@
 #### Educations
 * Chungbuk Provincial College, Information Security, 2017-2019
 * Chungnam National University, Computer Science & Engineering, 2019- (Ant. August 2021)
+
+#### Hobbies and Favorites
+* Training Judo (Heading to Black Belt!)
+
+* Touhou Project
+
+#### Hates
+* Doctrinarians
+
+* Hypocrite
