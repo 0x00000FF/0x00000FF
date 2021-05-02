@@ -29,10 +29,8 @@ I was born in 1997, Likes to do several interesting things!
 
 #### Hobbies and Favorites
 * Training Judo (Heading to Black Belt!)
-
 * Touhou Project
 
 #### Hates
 * Doctrinarians
-
 * Hypocrite
