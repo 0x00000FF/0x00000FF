@@ -2,7 +2,11 @@
 
 Hi, My name is Kangjun Heo!
 
-I was born in 1997, Likes to do several interesting things!
+I was born in 1997, Likes to do several interesting things.
+
+#### Languages
+
+한국어(Native), English, 日本語(Little bit, translator may be needed)
 
 #### Technologies
 * Languages: Assembly(x86-64), C, C++, C#, PHP, JavaScript
@@ -28,7 +32,7 @@ I was born in 1997, Likes to do several interesting things!
 * Chungnam National University, Computer Science & Engineering, 2019- (Ant. August 2021)
 
 #### Hobbies and Favorites
-* Languages (Currently studying German and Japanese)
+* Languages (Currently studying Deutsch and 日本語)
 * Money & Capitalism
 * Training Judo (Heading to Black Belt! - progressing about 20 percent)
 * Touhou Project
