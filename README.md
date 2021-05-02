@@ -28,7 +28,9 @@ I was born in 1997, Likes to do several interesting things!
 * Chungnam National University, Computer Science & Engineering, 2019- (Ant. August 2021)
 
 #### Hobbies and Favorites
-* Training Judo (Heading to Black Belt!)
+* Languages (Currently studying German and Japanese)
+* Money & Capitalism
+* Training Judo (Heading to Black Belt! - progressing about 20 percent)
 * Touhou Project
 
 #### Hates
