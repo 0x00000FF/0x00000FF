@@ -7,7 +7,7 @@
 #### Interests
 * Fast and Efficient End-to-End Encryption (E2EE)
 * Mitigation in Web Applications
-* Vulnerability Research & Exploitations
+* Vulnerability Research & Exploitations in Every Computer Systems
 * RISC Architectures(Especially ARM and RISC-V)
 
 #### Educations
