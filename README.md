@@ -6,9 +6,17 @@
 
 #### Interests
 * Fast and Efficient End-to-End Encryption (E2EE)
+  
+  How can I protect my data from peeping toms in fast, and the most efficient way?
 * Mitigation in Web Applications
+
+  Web Technologies are highly vulnerable and having a lot of attack surfaces due to its infrastructure. How can we mitigate these threats and eliminate the vulnerabilities?
 * Vulnerability Research & Exploitations in Every Computer Systems
+
+  Every system have at least one vulnerabilities; Find it and weaponize, or fix it as soon as possible.
 * RISC Architectures(Especially ARM and RISC-V)
+
+  RISC is quite interesting compared to CISC(especially x86-64). I want to know deep side of them. 
 
 #### Educations
 * Chungbuk Provincial College, Information Security, 2017-2019
