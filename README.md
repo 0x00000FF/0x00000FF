@@ -25,7 +25,7 @@ I was born in 1997, Likes to do several interesting things.
   Every system have at least one vulnerabilities; Find it and weaponize, or fix it as soon as possible.
 * RISC Architectures(Especially ARM and RISC-V)
 
-  RISC is quite interesting compared to CISC(especially x86-64). I want to know deep side of them. 
+  Such RISC architectures are quite interesting compared to x86-64. I want to know deep side of them. 
 
 #### Educations
 * Chungbuk Provincial College, Information Security, 2017-2019
