@@ -19,7 +19,7 @@ I was born in 1997, Likes to do several interesting things.
   How can I protect my data from peeping toms in fast, and the most efficient way?
 * Mitigation in Web Applications
 
-  Web Technologies relies on many of base systems and it makes the entire system highly vulnerable and makes a lot of attack surfaces. How can we mitigate them and eliminate the vulnerabilities?
+  Modern web technology relies on many of base systems and it makes the entire system highly vulnerable and makes a lot of attack surfaces. How can we mitigate them and eliminate the vulnerabilities?
 * Vulnerability Research & Exploitations in Every Computer Systems
 
   Every system have at least one vulnerabilities; Find it and weaponize, or fix it as soon as possible.
