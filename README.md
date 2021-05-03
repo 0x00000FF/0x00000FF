@@ -22,7 +22,7 @@ I was born in 1997, Likes to do several interesting things.
   Modern web technology relies on many of base systems and it makes the entire system highly vulnerable and makes a lot of attack surfaces. How can we mitigate them and eliminate the vulnerabilities?
 * Vulnerability Research & Exploitations in Every Computer Systems
 
-  Every system have at least one vulnerabilities; Find it and weaponize, or fix it as soon as possible.
+  Every system have at least one vulnerabilities; Find it and weaponize, or neutralize it as soon as possible.
 * RISC Architectures(Especially ARM and RISC-V)
 
   Such RISC architectures are quite interesting compared to x86-64. I want to know deep side of them. 
