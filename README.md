@@ -28,8 +28,9 @@ I was born in 1997, Likes to do several interesting things.
   Such RISC architectures are quite interesting compared to x86-64. I want to know deep side of them. 
 
 #### Educations
-* Chungbuk Provincial College, Information Security, 2017-2019
-* Chungnam National University, Computer Science & Engineering, 2019- (Ant. August 2021)
+* [Chungbuk Provincial College, Information Security](http://www.cpu.ac.kr/cd/main.do), 2017-2019
+    * Superseded by Department of Computer & Drone
+* [Chungnam National University, Computer Science & Engineering](https://computer.cnu.ac.kr/computer/index.do), 2019- (Ant. August 2021)
 
 #### Hobbies and Favorites
 * Languages (Currently studying Deutsch and 日本語)
