@@ -18,6 +18,7 @@ Deutsch
 #### Technologies
 * Languages: Assembly(x86-64), C, C++, C#, PHP, JavaScript
 * Specialty: Development on .NET and PHP Infrastructures
+* Frameworks: .NET (+ ASP.NET, Entity Framework), Bootstrap, CodeIgniter
 * Uses LaTeX for formatted writing
 
 #### Interests
