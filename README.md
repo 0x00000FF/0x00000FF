@@ -9,11 +9,8 @@ I was born in 1997, Likes to do several interesting things.
 ##### Using/Usable
 한국어(Native), English, 日本語(Little bit, translator may be needed),
 
-##### Learning
-Deutsch
-
-##### Interested
-русский
+##### Learning/Interested
+Deutsch, русский
 
 #### Technologies
 * Languages: Assembly(x86-64), C, C++, C#, PHP, JavaScript
