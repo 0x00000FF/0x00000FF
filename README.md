@@ -19,16 +19,16 @@ Deutsch, русский
 * Uses LaTeX for formatted writing
 
 #### Interests
-* Fast and Efficient End-to-End Encryption (E2EE)
+* **Fast and Efficient End-to-End Encryption (E2EE)**
   
   How can I protect my data from peeping toms in fast, and the most efficient way?
-* Mitigation in Web Applications
+* **Mitigation in Web Applications**
 
   Modern web technology relies on many of base systems and they make the entire system highly vulnerable and create a lot of attack surfaces. How can we mitigate them and eliminate the vulnerabilities?
-* Vulnerability Research & Exploitations
+* **Vulnerability Research & Exploitations**
 
   Every system have at least one vulnerabilities; Find it and weaponize, or neutralize it as soon as possible.
-* RISC Architectures(Especially ARM and RISC-V)
+* **RISC Architectures(Especially ARM and RISC-V)**
 
   Such RISC architectures are quite interesting compared to x86-64. I want to know deep side of them. 
 
