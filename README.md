@@ -19,6 +19,10 @@ Deutsch, русский
 * Uses LaTeX for formatted writing
 
 #### Interests
+* **Application that is Secured, Super fast to construct, and Easy to maintain**
+
+  Software development is always complex, and troublesome work. How can we design & construct secure application really fast?
+
 * **Fast and Efficient End-to-End Encryption (E2EE)**
   
   How can I protect my data from peeping toms in fast, and the most efficient way?
