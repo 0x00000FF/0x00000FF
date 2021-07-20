@@ -38,8 +38,8 @@ Deutsch, русский
 
 #### Educations
 * [Chungbuk Provincial College, Information Security](http://www.cpu.ac.kr/), 2017-2019
-* [Chungnam National University, Computer Science & Engineering](https://computer.cnu.ac.kr/computer/index.do), 2019- (Ant. Bachelor, August 2021)
-* [Information Security Laboratory](https://islab.cnu.ac.kr) at [Chungnam National University](https://computer.cnu.ac.kr/computer/index.do), Expected 2021-
+* [Chungnam National University, Computer Science & Engineering](https://computer.cnu.ac.kr/computer/index.do), 2019-August 2021
+* [Information Security Laboratory](https://islab.cnu.ac.kr) at [Chungnam National University](https://computer.cnu.ac.kr/computer/index.do),2021-
 
 #### Hobbies and Favorites
 * Languages (Currently studying Deutsch and 日本語)
