@@ -10,7 +10,7 @@ I was born in 1997, I like to do several interesting things.
 한국어(Native), English(Intermediate), 日本語(初級),
 
 ##### Learning/Interested
-Deutsch(Ganz Grundstufe!), русский
+Deutsch(Ganz Grundstufe, aber wird besser!), русский
 
 #### Technologies
 * Languages: Assembly(x86-64), C, C++, C#, PHP, JavaScript, Python, (+ Rust is coming)
