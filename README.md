@@ -13,7 +13,7 @@ I was born in 1997, I like to do several interesting things.
 Deutsch(Ganz Grundstufe, aber wird besser!), русский
 
 #### Technologies
-* Languages: Assembly(x86-64), C, C++, C#, PHP, JavaScript, Python, (+ Rust is coming)
+* Languages: Assembly(x86-64, ARM?), C, C++, C#, PHP, JavaScript, Python, Rust
 * Specialty: Development on .NET and PHP Infrastructures
 * Frameworks: .NET (+ ASP.NET, Entity Framework), Bootstrap, CodeIgniter
 * Uses LaTeX for formatted writing
