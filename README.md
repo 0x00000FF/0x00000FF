@@ -18,6 +18,8 @@ Deutsch(Ganz Grundstufe, aber wird besser!), русский
 * Frameworks: .NET (+ ASP.NET, Entity Framework), Bootstrap, CodeIgniter
 * Uses LaTeX for formatted writing
 
+Conducted projects with django and express.js, actix-web --- but still not familiar with these things 😅
+
 #### Interests
 * **Application that is Secured, Super fast to construct, and Easy to maintain**
 
