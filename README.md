@@ -4,6 +4,8 @@ Hi, My name is Kangjun! You can call me K if you want.
 
 I was born in 1997, I like to do several interesting things.
 
+PGP Fingerprint : `1B05 8E00 E447 D351 51E7  BE2C 2D5C 21F8 4220 27BB` (Find me in PGP global directory)
+
 #### Languages
 
 ##### Using/Usable
