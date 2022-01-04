@@ -10,7 +10,7 @@ PGP Fingerprint : `1B05 8E00 E447 D351 51E7  BE2C 2D5C 21F8 4220 27BB`
 
 If you are willing to send me an e-mail, Please make sure PGP-encrypted with the public key above.
 
-You can find the full public key from [https://keyserver.pgp.com/](PGP Global Directory) by Symantec.
+You can find the full public key from [PGP Global Directory](https://keyserver.pgp.com/) by Symantec.
 
 I don't accept any personal mails from now on, plaintexts will be disavowed and discarded as received.
 
