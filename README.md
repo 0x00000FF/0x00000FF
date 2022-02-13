@@ -22,10 +22,9 @@ I strictly support privacy protection from the national oppression.
 한국어(Native), English(Intermediate), 日本語(初級),
 
 #### Technologies
-* Languages: Assembly(x86-64, ARM?), C, C++, C#, PHP, JavaScript, Python, Rust
+* Languages: Assembly(x86-64), C, C++, C#, PHP, JavaScript, Python, Rust
 * Specialty: Development on .NET and PHP Infrastructures
 * Frameworks: .NET (+ ASP.NET, Entity Framework), Bootstrap, CodeIgniter
-* Uses LaTeX for formatted writing
 
 Conducted projects with django and express.js, actix-web --- but still not familiar with these things 😅
 
