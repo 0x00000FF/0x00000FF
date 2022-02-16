@@ -53,6 +53,7 @@ Conducted projects with django and express.js, actix-web --- but still not famil
 
 #### Hobbies and Favorites
 * Languages (Currently studying Deutsch and 日本語)
+* Airsoft Guns (and real guns!); GBBP or GBBR preferred
 * Money & Capitalism
 * Training Judo (Heading to Black Belt! - progressing about 20 percent)
 * Touhou Project
