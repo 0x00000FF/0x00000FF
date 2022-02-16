@@ -54,6 +54,7 @@ Conducted projects with django and express.js, actix-web --- but still not famil
 #### Hobbies and Favorites
 * Languages (Currently studying Deutsch and 日本語)
 * Airsoft Guns (and real guns!); GBBP or GBBR preferred
+  * VFC-Umarex GLOCK 17 Gen5, Enlisted at 17, Feb 2022
 * Money & Capitalism
 * Training Judo (Heading to Black Belt! - progressing about 20 percent)
 * Touhou Project
