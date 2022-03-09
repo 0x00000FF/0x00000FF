@@ -1,4 +1,4 @@
-# FUCK'IN CORONA!!!!
+# Under Corona Quarantine ~ 3/10 23:59:59 KST
 
 ### <img src="https://raw.githubusercontent.com/0x00000FF/0x00000FF/master/images.png" height="30" /> CSE Master's Student @ ISLAB, Chungnam National University
 
