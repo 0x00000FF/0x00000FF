@@ -52,7 +52,6 @@ Conducted projects with django and express.js, actix-web --- but still not famil
 * [Information Security Laboratory](https://islab.cnu.ac.kr) at [Chungnam National University](https://computer.cnu.ac.kr/computer/index.do),2021-
 
 #### Hobbies and Favorites
-* Languages (Currently studying Deutsch and 日本語)
 * Airsoft Guns; GBBP or GBBR preferred 
   * VFC-Umarex HK416D, Enlisted at 19, Feb 2022
   * VFC-Umarex GLOCK 17 Gen5, Enlisted at 17, Feb 2022
