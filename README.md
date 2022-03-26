@@ -53,7 +53,7 @@ Conducted projects with django and express.js, actix-web --- but still not famil
 
 #### Hobbies and Favorites
 * Airsoft Guns; GBBP or GBBR preferred 
-  * VFC-Umarex HK416D, Enlisted at 19, Feb 2022
+  * VFC-Umarex HK416D w/ RedWin Raccoon Sight, Enlisted at 19, Feb 2022
   * VFC-Umarex GLOCK 17 Gen5, Enlisted at 17, Feb 2022
   * KJWORKS Colt M1911A1, Under shipping progress 
   * Academy AWM, Enlisted at 24, Mar 2022
