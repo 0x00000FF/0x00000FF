@@ -19,7 +19,7 @@ I strictly support privacy protection from the national oppression.
 #### Languages
 
 ##### Using/Usable
-한국어(Native), English(Intermediate), 日本語(初級), Deutsch(~~vielleicht~~ Nein, ich kann sprache kein Deutsch :()
+한국어(Native), English(Intermediate), 日本語(初級), Deutsch(~~vielleicht~~ Nein, ich kann sprache kein Deutsch)
 
 #### Technologies
 * Languages: Assembly(x86-64), C, C++, C#, PHP, JavaScript, Python, Rust
