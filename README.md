@@ -71,4 +71,4 @@ Conducted projects with django and express.js, actix-web --- but still not famil
 
 #### Hates
 * Doctrinarians
-* Hypocrite
+* Hypocrite -- equals evil
