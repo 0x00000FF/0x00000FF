@@ -53,20 +53,20 @@ Conducted projects with django and express.js, actix-web --- but still not famil
 
 #### Hobbies and Favorites
 * Airsoft Guns; GBBP or GBBR preferred 
-  * VFC-Umarex HK416D, Enlisted at 19, Feb 2022
+  * VFC-Umarex HK416D
     * RedWin Torero 1-6x24 LPVO
     * Vertical grip for stabilization
-  * VFC-Umarex GLOCK 17 Gen5, Enlisted at 17, Feb 2022
+  * VFC-Umarex GLOCK 17 Gen5
     * +1 MOAR VFC GLOCK 17
   * RA-Tech/WE SCAR-H LV.2
     * RedWin Raccoon
-  * KJWORKS Colt M1911A1, Endlisted at 1, Apr 2022 
+  * KJWORKS Colt M1911A1
   * Academy AWM -- Disabled due to cylinder breakdown
     * RedWin Seasons 4-16x44
   * INF M24
     * RedWin Seasons 6-22x50
 * Money & Capitalism
-* Training Judo (Heading to Black Belt! - progressing about 20 percent)
+* Training Judo (Heading to Black Belt! - suspended; hope to resume it someday :s)
 * Touhou Project
 
 #### Hates
