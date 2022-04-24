@@ -58,9 +58,12 @@ Conducted projects with django and express.js, actix-web --- but still not famil
     * Vertical grip for stabilization
   * VFC-Umarex GLOCK 17 Gen5, Enlisted at 17, Feb 2022
     * +1 MOAR VFC GLOCK 17
+  * RA-Tech/WE SCAR-H LV.2
+    * RedWin Raccoon
   * KJWORKS Colt M1911A1, Endlisted at 1, Apr 2022 
-  * Academy AWM, Enlisted at 24, Mar 2022 -- Disabled due to cylinder breakdown
-  * INF M24, Enlisted at 25, Mar 2022
+  * Academy AWM -- Disabled due to cylinder breakdown
+    * RedWin Seasons 4-16x44
+  * INF M24
     * RedWin Seasons 6-22x50
 * Money & Capitalism
 * Training Judo (Heading to Black Belt! - progressing about 20 percent)
