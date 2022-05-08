@@ -53,7 +53,7 @@ Conducted projects with django and express.js, actix-web --- but still not famil
 
 #### Hobbies and Favorites
 * Airsoft Guns; GBBP or GBBR preferred 
-  * VFC-Umarex HK416D
+  * VFC-Umarex HK416D -- Disabled due to buffer breakdown
     * RedWin Torero 1-6x24 LPVO
     * Vertical grip for stabilization
   * VFC-Umarex GLOCK 17 Gen5
@@ -64,7 +64,7 @@ Conducted projects with django and express.js, actix-web --- but still not famil
   * Academy AWM -- Disabled due to cylinder breakdown
     * RedWin Seasons 4-16x44
   * INF M24
-    * RedWin Seasons 6-22x50
+    * RedWin Rome 4-16x44
 * Money & Capitalism
 * Training Judo (Heading to Black Belt! - suspended; hope to resume it someday :s)
 * Touhou Project
