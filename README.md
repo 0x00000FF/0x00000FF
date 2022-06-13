@@ -53,7 +53,7 @@ Conducted projects with django and express.js, actix-web --- but still not famil
 
 #### Hobbies and Favorites
 * Airsoft Guns; GBBP or GBBR preferred 
-  * VFC-Umarex HK416D -- Disabled due to buffer breakdown
+  * VFC-Umarex HK416D
     * RedWin Torero 1-6x24 LPVO
     * Vertical grip for stabilization
   * VFC-Umarex GLOCK 17 Gen5
