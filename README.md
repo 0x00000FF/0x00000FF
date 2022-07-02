@@ -42,9 +42,9 @@ Conducted projects with django and express.js, actix-web --- but still not famil
 * **Vulnerability Research & Exploitations**
 
   Every system have at least one vulnerabilities; Find it and weaponize, or neutralize it as soon as possible.
-* **RISC Architectures(Especially ARM and RISC-V)**
+* **Zero-Trust Architecture and Zero-Knowledgeness**
 
-  Such RISC architectures are quite interesting compared to x86-64. I want to know deep side of them. 
+  Trust is getting harder to archieve in the modern cyberspace. how can we trust from the void?
 
 #### Educations
 * [Chungbuk Provincial College, Information Security](http://www.cpu.ac.kr/), 2017-2019
