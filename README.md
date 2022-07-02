@@ -22,9 +22,3 @@ PGP Fingerprint : `1B05 8E00 E447 D351 51E7  BE2C 2D5C 21F8 4220 27BB`
 * [Chungbuk Provincial College, Information Security](http://www.cpu.ac.kr/), 2017-2019
 * [Chungnam National University, Computer Science & Engineering](https://computer.cnu.ac.kr/computer/index.do), 2019-August 2021, B.Sc
 * [Information Security Laboratory](https://islab.cnu.ac.kr) at [Chungnam National University](https://computer.cnu.ac.kr/computer/index.do),2021-
-
-#### Hobbies and Favorites
-* Airsoft Guns; especially GBBPs or GBBRs are preferred 
-* Money & Capitalism
-* Training Judo (Heading to Black Belt! - suspended; hope to resume it someday :s)
-* Touhou Project
