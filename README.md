@@ -13,20 +13,7 @@ PGP Fingerprint : `1B05 8E00 E447 D351 51E7  BE2C 2D5C 21F8 4220 27BB`
 * Languages: Assembly(x86-64), C, C++, C#, PHP, JavaScript, Python, Rust
 * Full-stack web application development (ASP.NET Core, PHP, ...)
 
-#### Interests
-* **Application that is Secured, Super fast to construct, and Easy to maintain**
-
-  Software development is always complex, and troublesome work. How can we design & construct secure application really fast?
-
-* **Fast and Efficient End-to-End Encryption (E2EE)**
-  
-  How can I protect my data from peeping toms in fast, and the most efficient way?
-* **Mitigation in Web Applications**
-
-  Modern web technology relies on many of base systems and they make the entire system highly vulnerable and create a lot of attack surfaces. How can we mitigate them and eliminate the vulnerabilities?
-* **Vulnerability Research & Exploitations**
-
-  Every system have at least one vulnerabilities; Find it and weaponize, or neutralize it as soon as possible.
+#### Main Interests
 * **Zero-Trust Architecture and Zero-Knowledgeness**
 
   Trust is getting harder to archieve in the modern cyberspace. how can we trust from the void?
