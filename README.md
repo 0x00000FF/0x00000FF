@@ -18,6 +18,10 @@ PGP Fingerprint : `1B05 8E00 E447 D351 51E7  BE2C 2D5C 21F8 4220 27BB`
 
   Trust is getting harder to archieve in the modern cyberspace. how can we trust from the void?
 
+* **Realtime Systems**
+ 
+* **Microservices Architecture**
+
 #### Educations
 * [Chungbuk Provincial College, Information Security](http://www.cpu.ac.kr/), 2017-2019
 * [Chungnam National University, Computer Science & Engineering](https://computer.cnu.ac.kr/computer/index.do), 2019-August 2021, B.Sc
