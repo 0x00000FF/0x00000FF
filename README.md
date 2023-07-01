@@ -1,4 +1,4 @@
-### <img src="https://raw.githubusercontent.com/0x00000FF/0x00000FF/master/images.png" height="30" /> CSE Master's Student @ [ISLAB](https://blog.islab.work), Chungnam National University
+### <img src="https://raw.githubusercontent.com/0x00000FF/0x00000FF/master/images.png" height="30" /> CSE Ph.D. Student @ [ISLAB](https://blog.islab.work), Chungnam National University
 
 Hi, My name is Kangjun! You can call me K if you want.
 
