@@ -2,8 +2,6 @@
 
 Hi, My name is Kangjun! You can call me K if you want.
 
-PGP Fingerprint : `1B05 8E00 E447 D351 51E7  BE2C 2D5C 21F8 4220 27BB`
-
 #### Languages
 
 ##### Using/Usable
