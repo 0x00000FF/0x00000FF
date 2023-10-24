@@ -2,7 +2,8 @@
 
 **Dominus pascit me, et nihil mihi deerit**
 
-Hi, My name is Kangjun! You can call me K if you want.
+Hi, My name is Kangjun! You can call me K (or Abraham) if you want.
+
 
 #### Languages
 
