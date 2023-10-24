@@ -4,7 +4,6 @@ Hi, My name is Kangjun! You can call me K if you want.
 
 #### Languages
 
-##### Using/Usable
 한국어(Native), English(Intermediate), 日本語(初級)
 
 #### Technologies
