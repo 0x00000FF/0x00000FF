@@ -28,12 +28,12 @@ Hi, My name is Kangjun! You can call me K (or Abraham) if you want.
 |<img src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/master/Java/Java.png" height="100" />|<img src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/master/Laravel/Laravel.png" height="100" />|<img src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/master/FORTRAN/FORTRAN.png" height="100" />|
 
 #### Main Interests
-* **Zero-Trust Architecture and Zero-Knowledgeness**
+* **Code Less, more Less, and Securely**
 
-  Trust is getting harder to archieve in the modern cyberspace. how can we trust from the void?
-
-* **Realtime Systems**
+* **Maximizing Resiliency of System**
  
+* **Key Management**
+
 * **Microservices Architecture**
 
 * **Cybersecurity in Special Area (Space, Aviation, ...)**
