@@ -1,6 +1,6 @@
 ### <img src="https://raw.githubusercontent.com/0x00000FF/0x00000FF/master/images.png" height="30" /> CSE Ph.D. Student @ [ISLAB](https://blog.islab.work), Chungnam National University
 
-**Dominus pascit me, et nihil mihi deerit**
+**Dominus pascit me, et nihil mihi deerit (Ps 23,1)**
 
 Hi, My name is Kangjun! You can call me K (or Abraham) if you want.
 
