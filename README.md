@@ -12,6 +12,9 @@ Hi, My name is Kangjun! You can call me K (or Abraham) if you want.
 #### Technologies
 * These logos are from the brilliant work of [SAWARATSUKI](https://github.com/SAWARATSUKI/ServiceLogos)
 
+##### I mainly use for code:
+<p align="center"><img src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/master/VisualStudioCode/VisualStudioCode.png" height="200" /></p>
+
 | For Apps/Backend System| For Frontend| Brief Scripting |
 |-----|-----|-----|
 | <img src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/master/C%23/C%23 Purple.png" height="100" />  |  <img src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/master/TypeScript/TypeScript.png" height="100" /> |  <img src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/master/Python/Python.png" height="100" />  | 
