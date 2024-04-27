@@ -10,8 +10,19 @@ Hi, My name is Kangjun! You can call me K (or Abraham) if you want.
 한국어(Native), English(Intermediate), 日本語(初級)
 
 #### Technologies
-* Languages: Assembly(x86-64), C, C++, C#, PHP, JavaScript, Python, Rust
-* Full-stack web application development (ASP.NET Core, PHP, ...)
+* These logos are from the brilliant work of [SAWARATSUKI](https://github.com/SAWARATSUKI/ServiceLogos)
+
+| For Apps/Backend System| For Frontend| Brief Scripting |
+|-----|-----|-----|
+| <img src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/master/C%23/C%23 Purple.png" height="100" />  |  <img src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/master/TypeScript/TypeScript.png" height="100" /> |  <img src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/master/Python/Python.png" height="100" />  | 
+|VC for Work|Native System|Deep Work|
+|<img src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/master/GitLab/GitLab.png" height="100" />|<img src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/master/Rust/Rust.png" height="100" />|<img src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/master/C/C.png" height="100" />|
+
+##### Other?
+
+| Also for Backend | Recently Interested | And Also |
+|-----|-----|-----|
+|<img src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/master/Java/Java.png" height="100" />|<img src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/master/Laravel/Laravel.png" height="100" />|<img src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/master/FORTRAN/FORTRAN.png" height="100" />|
 
 #### Main Interests
 * **Zero-Trust Architecture and Zero-Knowledgeness**
